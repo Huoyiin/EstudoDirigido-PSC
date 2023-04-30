@@ -7,10 +7,10 @@ public class Main {
         int homens = 0;
 
         for (int i = 1; i <= 30; i++) {
-            System.out.println("Insira um nome: ");
+            System.out.println("Insira um nome: "+i);
             String nome = scanner.nextLine();
 
-            System.out.println("Informe o sexo da pessoa: M- Masculino, F- Feminino");
+            System.out.println("Informe o sexo da pessoa: M- Masculino, F- Feminino"+i);
             String sexo = scanner.nextLine();
 
             if (sexo =="M") {
