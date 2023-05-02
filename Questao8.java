@@ -42,6 +42,6 @@ public class Main{
         System.out.println("Dados:");
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade);
-        System.out.println("Grupo de risco " + grupoDeRisco + ", atribuído à " + nome + " - " + categoria);
+        System.out.println("Grupo de risco " +grupoDeRisco);
     }
 }
