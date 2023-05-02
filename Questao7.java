@@ -20,7 +20,7 @@ public class Main {
                 desc = 0.07;
             }
             double valorCdesc = preco - desc;
-            double valorDesc = preco * desc;
+            double valorDesc = preco *(1- desc);
             total += valorCdesc;
             System.out.println("Desconto de: "+valorDesc+" "+desc*100+"%");
             System.out.println("Valor a pagar: " + valorCdesc);
