@@ -15,12 +15,12 @@ public class Main {
     }
 
     public static boolean verificacao(int numero) {
-        int somaDosDivisores = 0;
+        int somaDivisores = 0;
         for (int i = 1; i <= numero / 2; i++) {
             if (numero % i == 0) {
-                somaDosDivisores += i;
+                somaDivisores += i;
             }
         }
-        return somaDosDivisores == numero;
+        return somaDivisores == numero;
     }
 }
