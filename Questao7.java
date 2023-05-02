@@ -22,8 +22,8 @@ public class Main {
             double valorCdesc = preco - desc;
             double valorDesc = preco *(1- desc);
             total += valorCdesc;
-            System.out.println("Desconto de: "+valorDesc+" "+desc*100+"%");
-            System.out.println("Valor a pagar: " + valorCdesc);
+            System.out.println("Desconto de: "+desc+"%");
+            System.out.println("Valor a pagar: "+valorDesc);
             System.out.println("Gostaria de continuar calculando? (S/N)");
             char resp = scanner.next().charAt(0);
             continuar = resp=='S'||resp=='s';
