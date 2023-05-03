@@ -17,18 +17,19 @@ public class Main {
             case 1:
                 resultado = a + b;
                 System.out.println("Resultado da soma é " + resultado);
+                break;
             case 2:
                 resultado = a - b;
                 System.out.println("Resultado da subitração é " + resultado);
-
+                break;
             case 3:
                 resultado = a * b;
                 System.out.println("Resultado da multiplicação é " + resultado);
-
+                break;
             case 4:
                 resultado = a / b;
-
+                System.out.println("Resultado da divisão é " + resultado);
+                break;
         }
-        System.out.println("Resultado da divisão é " + resultado);
     }
 }
