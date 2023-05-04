@@ -1,3 +1,6 @@
+//Análise o código abaixo, corrija os erros e implemente melhorias para evitar erros no
+//uso da calculadora.
+
 import java.util.Scanner;
 
 public class Main {
