@@ -1,3 +1,6 @@
+//Escrever um programa que leia o nome e o sexo de 30 pessoas e informe o nome e se
+//ela é homem ou mulher. No final informe total de homens e de mulheres.
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
