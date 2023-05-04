@@ -1,3 +1,5 @@
+//Faça um programa que receba um número e mostre uma mensagem caso este número
+//seja maior que 10
 import java.util.Scanner;
 
 public class Main {
