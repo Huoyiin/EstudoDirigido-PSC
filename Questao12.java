@@ -1,3 +1,6 @@
+// Escreva classe com um método que será usado em todo sistema que recebe, por
+//parâmetro, dois valores X e Z e calcula e retorna o valor de X elevado a Z.
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
