@@ -1,3 +1,13 @@
+//Faça um programa que receba um valor que foi depositado e exiba o valor com
+//rendimento após um mês, escolha por meio de uma estrutura de caso 3 tipos de
+//rendimentos:
+//a. Poupança em 0,90% a. m.
+//b. CDB em 1,1% a.m.
+//c. Previdência Privada 1,3% a.m.
+//Apresente o rendimento no próximo mês e ao final de 12 meses qual será o
+//rendimento total, conforme a escolha.
+
+
 import java.util.Scanner;
 
 public class Main {
