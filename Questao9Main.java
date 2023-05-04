@@ -1,3 +1,6 @@
+//Faça um programa para atender ao canal de ouvidoria do estado de Minas Gerais com
+//duas classes Usuário e Solicitação conforme diagrama de classe abaixo:
+
 public class Main {
     public static void main(String[] args) {
 
